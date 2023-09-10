@@ -1,0 +1,66 @@
+
+.card-container{
+    background-image: url("https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_1280.jpg");
+    height:100vh;
+    background-size:cover;
+    text-align: center;
+}
+.big-card{
+     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color:black;
+    font-style: italic;
+}
+.end-card{
+    text-align: right;
+    color:rgb(240, 245, 220);
+    background-color:rgb(197, 45, 47);
+    border-width: 2px;
+    border-radius: 5px;
+    padding:5px;
+    font-weight: lighter;
+    margin-left: 23px;
+    text-transform: uppercase;
+
+}
+.paragraph
+{
+  
+    color: green;
+    padding:0px;
+}
+.text{
+   text-align: center;
+    background-color: aliceblue;
+    text-size-adjust: 100px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 25px;
+}
+.list-size{
+    list-style-type: none;
+    color:black;
+    font-weight: light;
+    text-align: end;
+    padding: 5px;
+    flex:1;
+}    
+li{display:inline;
+padding:5px;
+}
+.agency{
+    text-align:left;
+    padding: 15px;
+    text-decoration: underline;
+    flex:5;
+    color:rgb(5, 62, 70);
+    width:50vh;
+    margin:10px;
+    margin-top: -100px;
+}
+
+footer{
+    text-align: center;
+    padding:5px;
+}
